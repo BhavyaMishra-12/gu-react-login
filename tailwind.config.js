@@ -10,3 +10,4 @@ export default {
   plugins: [],
 }
 
+//this is a tailwind file
